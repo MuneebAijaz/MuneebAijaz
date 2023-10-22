@@ -29,10 +29,10 @@
 
 <div style="width:100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150px style="float:left;" src="https://github-readme-streak-stats.herokuapp.com?user=MuneebAijaz&theme=swift&hide_border=true&exclude_days=Sun%2CSat" />
+    <img height=180px style="float:left;" src="https://github-readme-streak-stats.herokuapp.com?user=MuneebAijaz&theme=swift&hide_border=true&exclude_days=Sun%2CSat" />
   </a>
 
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuneebAijaz&theme=swift&layout=compact&langs_count=8&card_width=320" />
+    <img height=180px style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuneebAijaz&theme=swift&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
