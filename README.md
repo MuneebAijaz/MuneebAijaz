@@ -26,10 +26,11 @@
 - :hatched_chick: I am also a starter in OpenSource Community, looking for new challenges falling under the scope of mentioned tools and interests
 - :no_mobile_phones: Besides working, most of my time is spent on FPS video games :video_game:, losing in chess :chess_pawn: or supporting my fav teams in esports on Twitch :space_invader:
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200px style="float:left;" src="https://github-readme-streak-stats.herokuapp.com?user=MuneebAijaz&theme=swift&hide_border=true&exclude_days=Sun%2CSat" />
-  </a>
 
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200px style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuneebAijaz&theme=swift&layout=compact&langs_count=8&card_width=320" />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200px style="float:left;" src="https://github-readme-streak-stats.herokuapp.com?user=MuneebAijaz&theme=swift&hide_border=true&exclude_days=Sun%2CSat" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200px style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuneebAijaz&theme=swift&layout=compact&langs_count=8&card_width=320" />
+</a>
