@@ -22,7 +22,7 @@
 
 ### About Me
 
-- :man_technologist: I am a Software Engineer at [Stakater](https://www.stakater.com) with over 2 years of **Site Reliability Engineering (SRE)** and **Operator Development** experience in Golang
+- :man_technologist: I am a Software Engineer at [Stakater](https://www.stakater.com) with 3 years of **Site Reliability Engineering (SRE)** and **Operator Development** experience in Golang
 - :hatched_chick: I am also a starter in OpenSource Community, looking for new challenges falling under the scope of mentioned tools and interests
 - :no_mobile_phones: Besides working, most of my time is spent on FPS video games :video_game:, losing in chess :chess_pawn: or supporting my fav teams in esports on Twitch :space_invader:
 
