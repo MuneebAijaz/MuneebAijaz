@@ -3,7 +3,6 @@
 </div>
 
 <div id="badges" style="margin:0 auto;" align="center">
-
   <div style="width:100%;">
     <img src="https://komarev.com/ghpvc/?username=MuneebAijaz&style=flat-square&color=blue" alt="" style="width:120px;"/>
   </div>
@@ -15,7 +14,10 @@
     <img src="./images/email.png" alt="Youtube Badge" style="width:36px;height:36px;"/>
   </a>
   </div>
+</div>
 
+<div align="center">
+<b align="center">Drop an email or text at above links to discuss solutions/opportunities/ideas</b>
 </div>
 
 ---
