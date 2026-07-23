@@ -45,12 +45,22 @@
 
 <div style="width:100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=188px style="float:left;" src="https://github-readme-streak-stats.herokuapp.com?user=MuneebAijaz&theme=swift&hide_border=true&exclude_days=Sun%2CSat" />
+    <img height=188px style="float:left;" src="https://github-readme-stats.vercel.app/api?username=MuneebAijaz&theme=swift&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=188px style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuneebAijaz&theme=swift&layout=compact&langs_count=8&card_width=320" />
   </a>
+</div>
+
+<div style="width:100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=188px style="float:left;" src="https://streak-stats.demolab.com?user=MuneebAijaz&theme=swift&hide_border=true&exclude_days=Sun%2CSat" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuneebAijaz&bg_color=ffffff&color=000000&line=00ADD8&point=326CE5&area=true&hide_border=true&days=31" alt="Contribution activity graph" />
 </div>
 
 [![@muneebaijaz's Holopin profile](https://holopin.me/muneebaijaz)](https://holopin.io/@muneebaijaz)
