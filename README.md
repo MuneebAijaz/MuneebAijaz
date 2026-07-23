@@ -51,22 +51,13 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuneebAijaz&theme=default" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuneebAijaz&theme=default" />
-  </a>
-</div>
-
-<div style="width:100%;">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height=188px style="float:left;" src="https://streak-stats.demolab.com?user=MuneebAijaz&theme=swift&hide_border=true&exclude_days=Sun%2CSat" />
+    <img width="480px" src="https://streak-stats.demolab.com?user=MuneebAijaz&theme=swift&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub streak stats" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuneebAijaz&bg_color=ffffff&color=000000&line=00ADD8&point=326CE5&area=true&hide_border=true&days=31" alt="Contribution activity graph" />
+  <img width="480px" src="https://github-readme-activity-graph.vercel.app/graph?username=MuneebAijaz&bg_color=ffffff&color=000000&line=00ADD8&point=326CE5&area=true&hide_border=true&days=31" alt="Contribution activity graph" />
 </div>
 
 [![@muneebaijaz's Holopin profile](https://holopin.me/muneebaijaz)](https://holopin.io/@muneebaijaz)
